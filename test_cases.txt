@@ -1,0 +1,6 @@
+Input Image: sample_image.jpg
+Expected:
+- Print image shape
+- Print top-left pixel
+- Print channel shapes
+- Display original + RGB channel split
